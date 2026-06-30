@@ -2,6 +2,12 @@
 
 Sport climbing performance analysis using R, Quarto and data visualization.
 
+## Live report
+
+The full HTML report is available here:
+
+https://olafsunday-arch.github.io/climbing-performance-analysis/
+
 ## Project description
 
 This project explores factors associated with sport climbing performance. The analysis focuses on body measurements, climbing experience, elite climber profiles, geographical differences and gender-based differences among climbers.
