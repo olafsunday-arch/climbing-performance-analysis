@@ -1,0 +1,17 @@
+# R workspace/history
+.RData
+.Rhistory
+.Rproj.user/
+
+# Quarto / R Markdown cache
+*_cache/
+*_files/
+.quarto/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
