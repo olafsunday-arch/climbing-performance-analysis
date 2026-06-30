@@ -1,6 +1,5 @@
 ---
 title: "Analiza czynników sukcesu we wspinaczce sportowej"
-subtitle: "Projekt zaliczeniowy: Metody wizualizacji i realizacji danych"
 author: "Olaf Niedziela"
 lang: pl
 format:
@@ -15,7 +14,7 @@ format:
     code-fold: show
     self-contained: true
 bibliography: references.bib
-citeproc: true
+cite-method: citeproc
 nocite: |
   @*
 editor: visual
@@ -96,7 +95,7 @@ Projekt ma na celu weryfikację postawionych przeze mnie tez i hipotez przy uży
 
 # Eksploracja Zbioru Danych
 
-W analizie wykorzystano zbiór danych \`Climb Dataset\` opublikowany w serwisie Kaggle \[\@jordizar_climb_dataset\].
+W analizie wykorzystano zbiór danych *Climb Dataset* opublikowany w serwisie Kaggle [@jordizar_climb_dataset].
 
 ::: callout-note
 **1. Wyjasnienie skali trudności (level)** <br> Dane wykorzystują system konwersji punktowej który również jest załączony w formie oddzielnego pliku - grades_conversion_table.csv, który mapuje trudność drogi (skala francuska) na wartości liczbowe (Level) w celu umożliwienia analizy.<br> Przykłady: <br> - **49 = 7a** <br> - **50 = 7a/7a+** <br> - **51 = 7a+** <br> - **52 = 7a+/7b** <br> - **53 = 7b**
