@@ -15,6 +15,7 @@ format:
     code-fold: show
     self-contained: true
 bibliography: references.bib
+citeproc: true
 nocite: |
   @*
 editor: visual
