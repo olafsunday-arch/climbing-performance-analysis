@@ -27,7 +27,7 @@ The analysis uses the `climber_df.csv` dataset.
 
 The data comes from the 8a.nu climbing logbook dataset originally published on Kaggle by David Cohen:
 
-https://www.kaggle.com/datasets/dcohen21/8anu-climbing-logbook
+[https://www.kaggle.com/datasets/dcohen21/8anu-climbing-logbook](https://www.kaggle.com/datasets/jordizar/climb-dataset)
 
 Important note: the dataset represents users of the 8a.nu platform, so the results should be interpreted as trends within this climbing community, not as conclusions about all climbers worldwide.
 
